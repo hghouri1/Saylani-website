@@ -1,0 +1,139 @@
+﻿body
+{
+}
+.row {
+    display: flex;
+    align-items: center;
+    align-content: space-between;
+    background-color: #316DC3;
+}
+.col-sm {
+    height:45px;
+    color:white;
+    margin-left:80px;
+    flex-basis:auto
+}
+.millionText {
+    align-content: flex-start;
+    font-size: 12px;
+    flex: 3;
+    padding-left:5px;
+    padding-top:10px;
+}
+.btn {
+    background-color: white;
+    }
+.btn-Ukdonor {
+    color: #8A7900;
+    align-self:center;
+    height:1.3em;
+    padding-top:0px;
+}
+
+.navigation-row {
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    margin-left:25em;
+}
+
+.nav-div{
+    display:flex;
+    flex-direction:row;
+    align-content:center;
+    height:70px;
+
+}
+
+.saylani-logo{
+    margin-left:80px;
+    height:60px;
+}
+.navbar {
+    background-color: #316DC3
+}
+.Slider1 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+   
+}
+.marq {
+    background-color: #316DC3;
+    height:30px;
+    color:white;
+    margin-left:10em;
+    width:77em
+}
+.intro{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.introimg{
+    display:flex;
+    flex-direction:row;
+}
+.intro-para {
+    display: flex;
+    width: 60em;
+    align-content: center;
+}
+
+.cards {
+    display: flex;
+    justify-content:center;
+    align-content: space-between;
+    flex-direction: row;
+    flex-wrap:wrap;
+    padding-right:10em;
+    padding-left:15em;
+}
+card-img-top{
+    width:50px;
+    height:30px
+}
+.card-text {
+    color: #316DC3
+}
+
+.upcomming-events {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    width:2000px;
+}
+.upcomming-cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 10em;
+    justify-content: space-around;
+}
+.upimg{
+    width:200px;
+    height:75px;
+}
+.uphead {
+    padding-left: 2em;
+    color: #316DC3;
+}
+.gallery {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img-thumbnail{
+    width:150px;
+    height:150px;
+}
+.gallery-images{
+    display:flex;
+    align-content:center;
+    padding-left:25em;
+}
+
+
+.fotter-div {
+    background-color: #316DC3;
+}
